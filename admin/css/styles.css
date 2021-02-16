@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
+main table td , main table th{
+	border: 1px solid black; 
+	padding: 10px;
+}
+.mail{
+
+	font-style: 20px;
+	font-weight: bold;
+	color: green;
+
+}
+main table tr{
+	margin-bottom: 30px;
+}
+
+
